@@ -1,5 +1,5 @@
 # Latest release
-[![GitHub version](https://img.shields.io/github/v/release/sushrut111/cowin-automation-extn)](https://github.com/sushrut111/cowin-automation-extn/releases)
+[![GitHub version](https://img.shields.io/github/v/release/sushrut111/cowin-automation-extn)](https://github.com/simtechnos/Cowin-Expert/releases/tag/1)
 # Install released versions
 Under Review
 
@@ -65,5 +65,5 @@ Love for Country & Countrymen
 
 ## Support
 1. Should you need any help or face troubles using this extension, reach out to us via this telegram channel: 
-    - [https://telegram.me/cowinbooking](https://telegram.me/simtechnos)
-    - [https://t.me/cowinbooking](https://t.me/simtechnos)
+    - [https://telegram.me/simtechnos](https://telegram.me/simtechnos)
+    - [https://t.me/simtechnos](https://t.me/simtechnos)
