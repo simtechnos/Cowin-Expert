@@ -1,18 +1,14 @@
 # Latest release
 [![GitHub version](https://img.shields.io/github/v/release/sushrut111/cowin-automation-extn)](https://github.com/sushrut111/cowin-automation-extn/releases)
 # Install released versions
-[Chrome store](https://chrome.google.com/webstore/detail/cowin-automation/gemdkhkmcnifpfbfnhpbbhageflibppm)
+Under Review
 
-[Install on smartphone](https://github.com/sushrut111/cowin-automation-extn/wiki/How-install-from-release-on-smartphone)
+[Install on smartphone](https://github.com/simtechnos/Cowin-Expert/wiki/Android-Installation-Guide.)
 
-[Install lastest on chrome desktop](https://github.com/sushrut111/cowin-automation-extn/wiki/How-install-extension-manually-from-github-release--on-chrome-desktop)
-
-[![MOZILLA](/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/en-US/firefox/addon/cowin-booking/)
+[Install lastest on chrome desktop](https://github.com/simtechnos/Cowin-Expert/wiki/Install-on-Chrome-on-any-Desktop)
 
 
-# Users and Ratings
-[![Chrome web store ratings](https://img.shields.io/chrome-web-store/rating/gemdkhkmcnifpfbfnhpbbhageflibppm)]()
-[![Chrome web store downloads](https://img.shields.io/chrome-web-store/users/gemdkhkmcnifpfbfnhpbbhageflibppm)]()
+
 ## Disclaimer
 Its Free and its for helping you to get the vaccine and get India Covid Free.
 
