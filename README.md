@@ -3,9 +3,9 @@
 # Install released versions
 Under Review
 
-[Install on smartphone](https://github.com/simtechnos/Cowin-Expert/wiki/Android-Installation-Guide.)
+[Install on Mobilee](https://github.com/simtechnos/Cowin-Expert/wiki/Android-Installation-Guide.)
 
-[Install lastest on chrome desktop](https://github.com/simtechnos/Cowin-Expert/wiki/Install-on-Chrome-on-any-Desktop)
+[Install on Chrome Desktop](https://github.com/simtechnos/Cowin-Expert/wiki/Install-on-Chrome-on-any-Desktop)
 
 
 
