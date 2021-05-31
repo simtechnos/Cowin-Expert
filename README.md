@@ -1,5 +1,5 @@
 # Latest release
-[![GitHub version](https://img.shields.io/github/v/release/sushrut111/cowin-automation-extn)](https://github.com/simtechnos/Cowin-Expert/releases/tag/1)
+[![GitHub version](https://img.shields.io/github/manifest-json/v/simtechnos/Cowin-Expert)](https://github.com/simtechnos/Cowin-Expert/releases/tag/1)
 # Install released versions
 Under Review
 
