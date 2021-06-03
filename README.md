@@ -1,7 +1,7 @@
 # Latest release
 [![GitHub version](https://img.shields.io/github/manifest-json/v/simtechnos/Cowin-Expert)](https://github.com/simtechnos/Cowin-Expert/releases/tag/1)
 # Install released versions
-Under Review
+https://chrome.google.com/webstore/detail/cowin-expert/decaadadgobnohahinfpbdbicificamo
 
 [Install on Mobilee](https://github.com/simtechnos/Cowin-Expert/wiki/Android-Installation-Guide.)
 
